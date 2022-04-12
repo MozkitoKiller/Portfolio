@@ -34,12 +34,13 @@
 
     position: absolute;
     display: flex;
-
 }
 
 .imgs img {
-    width: 55%;
+    width: 70%;
 }
+
+
 
 @media (max-width: 1440px) {
 
@@ -90,6 +91,7 @@
 
     .intro {
         margin-top: 11rem;
+        z-index: 3;
     }
 
     .intro p {
@@ -98,7 +100,7 @@
     }
 
     .imgs {
-        bottom: 7rem;
+        bottom: 20rem;
         left: 29rem;
         padding-right: 3rem;
     }
