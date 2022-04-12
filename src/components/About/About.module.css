@@ -28,14 +28,14 @@
     width: 80%;
 }
 
-/* .imgs {
+.imgs {
     bottom: 8rem;
     left: 74rem;
 
     position: absolute;
     display: flex;
 
-} */
+}
 
 .imgs img {
     width: 55%;
