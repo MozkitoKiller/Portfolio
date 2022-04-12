@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
+
+.about {
+    height: 100vh;
+}
+
+
+.about h1 {
+    font-family: 'Arvo', serif;
+    font-size: 4rem;
+}
+
+.about p {
+    padding-top: 1rem;
+    color: #8d8d8d;
+}
+
+.intro {
+    padding-left: 3rem;
+    padding-top: 20rem;
+    color: white;
+}
