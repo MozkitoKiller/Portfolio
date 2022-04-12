@@ -35,6 +35,10 @@
     top: -11rem;
 }
 
+.social {
+    display: none;
+}
+
 
 .reactjs img {
     overflow: hidden;
@@ -67,5 +71,12 @@
     .about h1 {
         font-family: 'Arvo', serif;
         font-size: 3rem;
+    }
+
+    .social {
+        display: flex;
+        justify-content: space-evenly;
+
+        padding-top: 3rem;
     }
 }

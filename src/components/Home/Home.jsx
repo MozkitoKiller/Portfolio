@@ -13,6 +13,10 @@ function Home() {
       <div className={style.reactjs}>
         <img src={reactjs} alt="" />
       </div>
+      <div className={style.social}>
+      <a href="https://github.com/MozkitoKiller" target='_blank'> <p>GitHub</p></a>
+                <a href="https://www.linkedin.com/in/joão-vitor-bertuga-cerqueira-35b478162/" target='_blank'> <p>LinkedIn</p></a>
+      </div>
     </div>
   )
 }
