@@ -15,9 +15,11 @@ function About() {
             </div>
             <div className={style.intro}>
                 <h1>Sobre mim</h1>
-                <p>Desenvolvedor front-end sediado em São Carlos - SP.
+                <p> Desenvolvedor front-end sediado em São Carlos - SP.
                     Formado em Gestão e Análise Ambiental em 2019, decidi iniciar minha <br />
                     transição de carreira em meados de 2021.<br />
+
+                    Buscando o Full-stack.
                 </p>
             </div>
         </div>
