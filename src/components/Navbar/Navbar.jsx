@@ -10,15 +10,15 @@ function Navbar() {
     return (
 
         <nav className={style.navbar}>
+            <Link to="/" className={style.nome}>
+                <div >
 
-            <div className={style.nome}>
-                <Link to="/">
                     <h1>J</h1>
-                </Link>
-                <p>Front-end Dev</p>
 
-            </div>
+                    <p>Front-end Dev</p>
 
+                </div>
+            </Link>
             <div className={style.menu}>
                 <Link to="/about">
                     <FontAwesomeIcon className={style.icon} icon={faUser} /> <br />
