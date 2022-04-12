@@ -111,6 +111,7 @@
 @media (max-width: 425px) {
  
     .about {
+        z-index: 2;
         padding-top: 0;
         padding-left: 1rem;
     }
@@ -120,11 +121,21 @@
     
         font-size: 1.2rem;
     
-        width: 100%;
+        width: 97%;
     }
 
     .intro {
-        margin-top: 4rem;
+        margin-top: 15rem;
+        z-index: 3;
     }
+
+    .imgs {
+        bottom: 0rem;
+        left: 0rem;
+        padding-right: 0rem;
+        padding-left: 12rem;
+        padding-bottom: 26rem;
+    }
+
 
 }
