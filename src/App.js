@@ -8,11 +8,13 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
+import NavbarMobile from './components/Navbar/Mobile/NavbarMobile';
 
 function App() {
   return (
     <>
       <Router>
+        <NavbarMobile />
         <Navbar />
         <main>
           <Routes>

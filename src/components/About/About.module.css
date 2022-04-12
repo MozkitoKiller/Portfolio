@@ -62,8 +62,16 @@
 
 @media (max-width: 1024px) {
     .imgs {
-        bottom: 3rem;
-        left: 45rem;
+        bottom: 12rem;
+        left: 41rem;
+    }
+
+    .intro {
+        margin-top: 15rem;
+    }
+    .intro {
+        width: 70%;
+        font-size: 1.2rem;
     }
 
     .about {
@@ -79,18 +87,44 @@
         padding-left: 5rem;
     }
 
+    .intro {
+        margin-top: 11rem;
+    }
+
     .intro p {
-        width: 100%;
+        width: 75%;
+        font-size: 1rem;
     }
 
     .imgs {
-        bottom: 2rem;
+        bottom: 7rem;
         left: 29rem;
         padding-right: 3rem;
     }
 
     .imgs img {
         width: 100%;
+    }
+
+}
+
+@media (max-width: 425px) {
+ 
+    .about {
+        padding-top: 0;
+        padding-left: 1rem;
+    }
+
+    .intro p {
+        color: #8d8d8d;
+    
+        font-size: 1.2rem;
+    
+        width: 100%;
+    }
+
+    .intro {
+        margin-top: 4rem;
     }
 
 }

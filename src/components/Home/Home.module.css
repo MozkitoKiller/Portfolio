@@ -41,9 +41,31 @@
     width: 290%;
 }
 
+@media (max-width: 768px) {
+    .reactjs {
+        top: 0rem;
+    }
+}
+
 @media (max-width: 425px) {
+
+    .intro {
+        padding-left: 1rem;
+    }
+
+    .reactjs {
+        top: 3rem;
+
+        width: 30%;
+    }
+
     .about h1 {
         font-family: 'Arvo', serif;
         font-size: 2rem;
+    }
+
+    .about h1 {
+        font-family: 'Arvo', serif;
+        font-size: 3rem;
     }
 }

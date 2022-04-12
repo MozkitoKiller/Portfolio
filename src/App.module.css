@@ -52,3 +52,11 @@ main{
 	background-color: #1d1d1d;
 	height: 100%;
 }
+
+@media (max-width: 425px) {
+	main{
+		margin-left: 0;
+		background-color: #1d1d1d;
+		height: 100%;
+	}
+}

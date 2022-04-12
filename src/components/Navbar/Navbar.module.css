@@ -100,3 +100,10 @@ a:hover {
         padding-bottom: 1rem;
     }
 }
+
+@media (max-width:425px) {
+    .navbar{
+        display: none;
+    }
+    
+}
