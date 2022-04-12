@@ -17,7 +17,7 @@
 }
 
 .intro {
-    padding-left: 3rem;
+    padding-left: 5rem;
     padding-top: 20rem;
     color: white;
 }
@@ -39,4 +39,11 @@
 .reactjs img {
     overflow: hidden;
     width: 290%;
+}
+
+@media (max-width: 425px) {
+    .about h1 {
+        font-family: 'Arvo', serif;
+        font-size: 2rem;
+    }
 }
