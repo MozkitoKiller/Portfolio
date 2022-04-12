@@ -13,7 +13,7 @@ function Navbar() {
 
             <div className={style.nome}>
                 <Link to="/">
-                    <h1>João Bertuga</h1>
+                    <h1>J</h1>
                 </Link>
                 <p>Front-end Dev</p>
 
