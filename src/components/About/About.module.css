@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
 
 .about {
+    display: flex;
+    justify-content: space-between;
     padding-left: 3rem;
     padding-top: 20rem;
 }
@@ -16,6 +18,19 @@
     color: #8d8d8d;
 
     font-size: 1.3rem;
-    
+
     width: 100%;
+}
+
+.imgs {
+    bottom: 6rem;
+    left: 70rem;
+
+    position: absolute;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgs img {
+    width: 55%;
 }

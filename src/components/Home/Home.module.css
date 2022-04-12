@@ -2,6 +2,7 @@
 
 .about {
     height: 100vh;
+    overflow: hidden;
 }
 
 
@@ -19,4 +20,23 @@
     padding-left: 3rem;
     padding-top: 20rem;
     color: white;
+}
+
+.reactjs {
+    position: absolute;
+
+    max-width: 100%;
+
+    overflow: hidden;
+
+    width: 20%;
+
+    right: 0rem;
+    top: -11rem;
+}
+
+
+.reactjs img {
+    overflow: hidden;
+    width: 290%;
 }
