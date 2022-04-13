@@ -23,9 +23,9 @@ function Navbar() {
                 <Link to="/about">
                     <FontAwesomeIcon className={style.icon} icon={faUser} /> <br />
                 </Link>
-
-                <FontAwesomeIcon className={style.icon} icon={faCode} /> <br />
-
+                <Link to='/projects'>
+                    <FontAwesomeIcon className={style.icon} icon={faCode} /> <br />
+                </Link>
                 <FontAwesomeIcon className={style.icon} icon={faFileCode} /> <br />
 
             </div>

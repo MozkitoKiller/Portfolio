@@ -9,6 +9,7 @@ import {
   Route,
 } from "react-router-dom";
 import NavbarMobile from './components/Navbar/Mobile/NavbarMobile';
+import Projects from './components/Projects/Projects';
 
 function App() {
   return (
@@ -18,8 +19,9 @@ function App() {
         <Navbar />
         <main>
           <Routes>
-            <Route path='/about' element={<About />} />
             <Route path='/' element={<Home />} />
+            <Route path='/about' element={<About />} />
+            <Route path='/projects' element={<Projects />} />
           </Routes>
         </main>
       </Router>
