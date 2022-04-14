@@ -11,16 +11,18 @@ function NavbarMobile() {
     return (
         <div className={style.navbar}>
             <Link to="/" className={style.nome}>
-            <div >
-                <p>João<br />Bertuga</p>
-            </div>
+                <div >
+                    <p>João<br />Bertuga</p>
+                </div>
             </Link>
             <div className={style.icons}>
                 <Link to="/about">
                     <FontAwesomeIcon className={style.icon} icon={faUser} /> <br />
                 </Link>
 
-                <FontAwesomeIcon className={style.icon} icon={faCode} /> <br />
+                <Link to='/projects'>
+                    <FontAwesomeIcon className={style.icon} icon={faCode} /> <br />
+                </Link>
 
                 <FontAwesomeIcon className={style.icon} icon={faFileCode} /> <br />
             </div>
