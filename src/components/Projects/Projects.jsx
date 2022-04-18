@@ -25,7 +25,7 @@ function Projects() {
                 <div className={style.descricao}>
                     <h2>HZC</h2>
                     <p>
-                        HZC é um site desenvolvido em paralelo com cursos da Alura, com design moderno usando método de display dos elementos em grid
+                        HZC é uma ladding page que uma comunidade de skate, com design moderno.
                     </p>
                     <div>
                         <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -42,9 +42,9 @@ function Projects() {
                     <img src={casaverde} alt="site Casa Verde" className={style.casaverde} />
                 </div>
                 <div className={style.descricao}>
-                    <h2>HZC</h2>
+                    <h2>Casa Verde</h2>
                     <p>
-                        HZC é um site desenvolvido em paralelo com cursos da Alura, com design moderno usando método de display dos elementos em grid
+                        Casa Verde é um site desenvolvido para floricultura, também com design simples e moderno, intuitivo e de fácil compreensão.
                     </p>
                     <div>
                         <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -61,9 +61,9 @@ function Projects() {
                     <img src={alurageek} alt="site sk8" />
                 </div>
                 <div className={style.descricao}>
-                    <h2>HZC</h2>
+                    <h2>Alura Geek</h2>
                     <p>
-                        HZC é um site desenvolvido em paralelo com cursos da Alura, com design moderno usando método de display dos elementos em grid
+                       Alura Geek é um site de E-Commerce, para esse projeto foi desenvolvido um DataBase em Json para os produtos e consumido usando a biblioteca Axios junto ao ReactJs.
                     </p>
                     <div>
                         <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
