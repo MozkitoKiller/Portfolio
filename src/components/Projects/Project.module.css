@@ -73,9 +73,10 @@
 }
 
 .techjs {
-    width: 15%;
-    padding-bottom: 0.5rem;
-    padding-right: 1rem;
+    width: 11%;
+    margin-top: 0.5rem;
+    padding-bottom: 0rem;
+    padding-left: 0.3rem;
 }
 
 @media (min-width: 1920px) {

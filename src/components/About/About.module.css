@@ -25,7 +25,7 @@
 
     font-size: 1.3rem;
 
-    width: 80%;
+    width: 60%;
 }
 
 .imgs {
@@ -38,6 +38,10 @@
 
 .imgs img {
     width: 70%;
+}
+
+.techs {
+    padding-top: 1rem;
 }
 
 

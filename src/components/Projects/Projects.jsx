@@ -8,7 +8,7 @@ import reactjs from '../../assets/img/React.png'
 
 
 import sk8 from '../../assets/sites/Capturar.PNG'
-import  casaverde from '../../assets/sites/casaverde.PNG'
+import casaverde from '../../assets/sites/casaverde.PNG'
 import alurageek from '../../assets/sites/aluraGeek.PNG'
 
 
@@ -28,9 +28,9 @@ function Projects() {
                         HZC é um site desenvolvido em paralelo com cursos da Alura, com design moderno usando método de display dos elementos em grid
                     </p>
                     <div>
-                        <img src={html5} alt="" className={style.techhtml} />
-                        <img src={css3} alt="" className={style.techcss} />
-                        <img src={js} alt="" className={style.techjs} />
+                        <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+                        <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+                        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
                     </div>
                 </div>
             </div>
@@ -47,9 +47,9 @@ function Projects() {
                         HZC é um site desenvolvido em paralelo com cursos da Alura, com design moderno usando método de display dos elementos em grid
                     </p>
                     <div>
-                        <img src={html5} alt="" className={style.techhtml} />
-                        <img src={css3} alt="" className={style.techcss} />
-                        <img src={js} alt="" className={style.techjs} />
+                        <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+                        <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+                        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
                     </div>
                 </div>
             </div>
@@ -66,10 +66,10 @@ function Projects() {
                         HZC é um site desenvolvido em paralelo com cursos da Alura, com design moderno usando método de display dos elementos em grid
                     </p>
                     <div>
-                        <img src={html5} alt="" className={style.techhtml} />
-                        <img src={css3} alt="" className={style.techcss} />
-                        <img src={js} alt="" className={style.techjs} />
-                        <img src={node} alt="" className={style.techjs} />
+                        <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+                        <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+                        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+                        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
                     </div>
                 </div>
             </div>
