@@ -25,7 +25,7 @@ function Projects() {
                 <div className={style.descricao}>
                     <h2>HZC</h2>
                     <p>
-                        HZC é uma ladding page que uma comunidade de skate, com design moderno.
+                        HZC é uma ladding page de uma comunidade de skate, com design moderno, de simples entendimento e com layout componentizado e responsivo.
                     </p>
                     <div>
                         <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -44,7 +44,7 @@ function Projects() {
                 <div className={style.descricao}>
                     <h2>Casa Verde</h2>
                     <p>
-                        Casa Verde é um site desenvolvido para floricultura, também com design simples e moderno, intuitivo e de fácil compreensão.
+                        Casa Verde é um site desenvolvido para floricultura, também com design simples e moderno, intuitivo e de fácil compreensão além de ser responsivo aos diferentes tamanhos de dispositivos.
                     </p>
                     <div>
                         <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -63,9 +63,10 @@ function Projects() {
                 <div className={style.descricao}>
                     <h2>Alura Geek</h2>
                     <p>
-                       Alura Geek é um site de E-Commerce, para esse projeto foi desenvolvido um DataBase em Json para os produtos e consumido usando a biblioteca Axios junto ao ReactJs.
+                        Alura Geek é um site de E-Commerce, para esse projeto foi desenvolvido um DataBase em Json para os produtos e consumido usando a biblioteca Axios junto ao ReactJs.
                     </p>
                     <div>
+                        <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                         <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
                         <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
                         <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />

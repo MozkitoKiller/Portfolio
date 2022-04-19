@@ -85,3 +85,48 @@
         box-shadow: 4px 4px 20px 0px black;
     }
 }
+@media (max-width: 768px) {
+    .reactjs {
+        position: fixed;
+    
+        max-width: 100%;
+    
+        overflow: hidden;
+    
+        width: 20%;
+    
+        right: 0rem;
+        top: -6rem;
+    }
+    .projects {
+
+        display: inline-block;
+    
+        height: 100vh;
+    
+        width: 80%;
+
+        padding-left: 3rem;
+        padding-top: 3rem;
+    
+    }
+
+    .descricao {
+        width: 100%;
+
+        padding-top: 1rem;
+        padding-left: 6%;
+        color: white;
+        
+        
+        z-index: 3;
+    }
+
+
+}
+
+@media (max-width: 425px) {
+    .reactjs {
+        display: none;
+    }
+}
