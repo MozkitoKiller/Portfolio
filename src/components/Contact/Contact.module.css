@@ -1,0 +1,15 @@
+.contact {
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+.about h1 {
+    font-family: 'Arvo', serif;
+    font-size: 4rem;
+}
+
+.about p {
+    padding-top: 1rem;
+    color: #8d8d8d;
+}

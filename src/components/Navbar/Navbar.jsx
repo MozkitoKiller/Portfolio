@@ -26,8 +26,9 @@ function Navbar() {
                 <Link to='/projects'>
                     <FontAwesomeIcon className={style.icon} icon={faCode} /> <br />
                 </Link>
+                <Link to='/contact'>
                 <FontAwesomeIcon className={style.icon} icon={faFileCode} /> <br />
-
+                </Link>
             </div>
             <div className={style.social}>
                 <a href="https://github.com/MozkitoKiller" target='_blank'> <p>GitHub</p></a>
