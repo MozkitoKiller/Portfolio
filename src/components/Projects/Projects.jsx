@@ -1,9 +1,5 @@
 import React from 'react'
 import style from "./Project.module.css"
-import html5 from '../../assets/techs/html5-brands.svg'
-import css3 from '../../assets/techs/css3-brands.svg'
-import js from '../../assets/techs/js-brands.svg'
-import node from '../../assets/techs/node-js-brands.svg'
 import reactjs from '../../assets/img/React.png'
 
 

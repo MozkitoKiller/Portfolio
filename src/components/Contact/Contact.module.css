@@ -1,15 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
+
 .contact {
     height: 100vh;
     overflow: hidden;
+
+    padding-left: 1.5rem;
+
+    display: flex;
+
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 
-.about h1 {
+.contact h2 {
     font-family: 'Arvo', serif;
-    font-size: 4rem;
+
+    font-size: 3.5rem;
+
+    color: white;
 }
 
-.about p {
-    padding-top: 1rem;
-    color: #8d8d8d;
+.contact form {
+    display: flex;
+    flex-direction: column;
+
+    width: 30rem;
+
+    justify-content: space-between;
+}
+.contact input {
+    height: 2rem;
+    
+    border-radius: 5px;
+
+    margin-bottom: 1rem;
+
+    background-color: rgb(51, 48, 48);
+}
+
+.contact textarea {
+    margin-bottom: 1rem;
+
+    border-radius: 5px;
+
+    background-color: rgb(51, 48, 48);
+}
+
+
+.contact button {
+    border-radius: 5px;
+
+    align-self: center;
+
+    background-color: grey;
+    
+    height: 2rem;
+    width: 5rem;
+}
+
+.contact label {
+    color: white;
+
+    font-family: 'Arvo', serif;
+
+    padding-bottom: 0.3rem;
 }
